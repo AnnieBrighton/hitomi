@@ -52,7 +52,7 @@ class Hitomi:
                 elem = fromstring(self.__html)
 
                 # タイトル取得
-                self.__title = elem.find('./head/title').text.encode('utf_8')
+                self.__title = re.sub(r'[\\\'"]', r'', elem.find('./head/title').text.encode('utf_8'))
                 if '|' in self.__title:
                     self.__title = self.__title.split('|', 1)[0]
                 self.__title = self.__title.strip(' ')
