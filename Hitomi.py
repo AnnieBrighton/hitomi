@@ -59,7 +59,8 @@ class Hitomi:
 
                 # イメージURLリストを取得
                 for e in elem.findall('./body/div[@class=\'img-url\']'):
-                    imgurl = 'https://a' + chr(97 + (int(self.__id) % 7)) + e.text.rstrip('\n')[3:]
+                    #imgurl = 'https://a' + chr(97 + (int(self.__id) % 7)) + e.text.rstrip('\n')[3:]
+                    imgurl = 'https://a' + chr(97) + e.text.rstrip('\n')[3:]
                     self.__imgList.append(imgurl)
 
                 return
