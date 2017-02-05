@@ -34,9 +34,9 @@ class Hitomi:
         return self.__imgList
 
     # 著作者リスト読み込み
-    def loadArtistList(self):
+    def loadArtistList(self, file):
         try:
-            f=open('artists_list.txt', 'r')
+            f=open(file, 'r')
             ptn=re.compile(r'\t*')
             for l in f:
                 l=l.replace('\n', '')

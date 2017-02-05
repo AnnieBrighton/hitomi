@@ -18,7 +18,7 @@ argvs = sys.argv
 argc  = len(argvs)
 
 b = Hitomi.Hitomi(argvs[1])
-b.loadArtistList()
+b.loadArtistList(os.path.dirname(argvs[0]) + '/artists_list.txt')
 print(b.getID())
 b.getAritistInfo()
 b.getImageURlist()
