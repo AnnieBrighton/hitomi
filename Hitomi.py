@@ -66,7 +66,7 @@ class Hitomi:
                 html = re.sub(r'<img([^>]*[^/])>',r'<img\1/>',html)
 
                 elem = fromstring(html)
-                # タイトル取得
+                # 著作者情報取得
                 for el in elem.findall('./body/div/div/div/h2/ul/li/a'):
                     self.__artist.append(el.text.encode('utf_8'))
 
