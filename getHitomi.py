@@ -6,7 +6,14 @@
 #
 
 import os, sys, codecs   # モジュール属性 argv を取得用
-import urllib2
+
+try:
+    # python3用のパッケージを取得
+    import urllib.request as urllib2
+except ImportError:
+    # python2で例外となり、python2用のパッケージを取得
+    import urllib2
+
 import re
 
 import Hitomi

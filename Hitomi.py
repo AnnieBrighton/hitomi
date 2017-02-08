@@ -2,7 +2,14 @@
 # coding: utf-8
 
 import os, sys   # モジュール属性 argv を取得用
-import urllib2
+
+try:
+    # python3用のパッケージを取得
+    import urllib.request as urllib2
+except ImportError:
+    # python2で例外となり、python2用のパッケージを取得
+    import urllib2
+
 import re
 import zipfile
 from xml.etree.ElementTree import *
@@ -36,8 +43,14 @@ class Hitomi:
     # 著作者リスト読み込み
     def loadArtistList(self, file):
         try:
-            f=open(file, 'r')
-            ptn=re.compile(r'\t*')
+            ptn=re.compile(r'\t+')
+            try:
+                # Python3ではコード系指定
+                f=open(file, 'r', encoding='utf_8')
+            except TypeError:
+                # Python2では、例外となり通常のオープン
+                f=open(file, 'r')
+
             for l in f:
                 l=l.replace('\n', '')
                 l=l.replace('\r', '')
@@ -46,7 +59,7 @@ class Hitomi:
                 if k != v:
                     self.__artistList[k] = v
             f.close()
-        except IOError, e:
+        except IOError as e:
             # 著作者リスト読み込みに失敗しても何もしない
             return
 
@@ -58,32 +71,32 @@ class Hitomi:
             try:
                 req = urllib2.Request(url)
                 response = urllib2.urlopen(req)
-                html = response.read()
+                html = response.read().decode('utf_8')
 
                 html = re.sub(r'<meta([^>]*[^/])>',r'<meta\1/>',html)
                 html = re.sub(r'<link([^>]*[^/])>',r'<link\1/>',html)
                 html = re.sub(r'<input([^>]*[^/])>',r'<input\1/>',html)
                 html = re.sub(r'<img([^>]*[^/])>',r'<img\1/>',html)
 
-                elem = fromstring(html)
+                elem = fromstring(html.encode('utf_8'))
                 # 著作者情報取得
                 for el in elem.findall('./body/div/div/div/h2/ul/li/a'):
-                    self.__artist.append(el.text.encode('utf_8'))
+                    self.__artist.append(el.text)
 
                 return
 
-            except urllib2.HTTPError, e:
+            except urllib2.HTTPError as e:
                 print('HTTPError: code: [{0}]'.format (e.code))
                 if e.code == 404:
                     # 404 Not Foundはリトライする必要が無いため即復帰
                     raise e
                 ex = e
 
-            except urllib2.URLError, e:
+            except urllib2.URLError as e:
                 print('URLError: reason: [{0}]'.format (e.reason))
                 ex = e
 
-            except IOError, e:
+            except IOError as e:
                 print('IOError:errno: [{0}] msg: [{1}]'.format (e.errno, e.strerror))
                 raise e
 
@@ -99,7 +112,7 @@ class Hitomi:
             try:
                 req = urllib2.Request(url)
                 response = urllib2.urlopen(req)
-                self.__html = response.read()
+                self.__html = response.read().decode('utf_8')
 
                 # <meta charset="utf-8"> 閉じが ">" -> "/>"
                 # <link rel="stylesheet" href="/reader.css"> 閉じが ">" -> "/>"
@@ -108,7 +121,7 @@ class Hitomi:
                 elem = fromstring(self.__html)
 
                 # タイトル取得
-                self.__title = re.sub(r'[\\\'"]', r'', elem.find('./head/title').text.encode('utf_8'))
+                self.__title = re.sub(r'[\\\'"]', r'', elem.find('./head/title').text)
                 if '|' in self.__title:
                     self.__title = self.__title.split('|', 1)[0]
                 self.__title = self.__title.strip(' ')
@@ -128,14 +141,14 @@ class Hitomi:
 
                 return
 
-            except urllib2.HTTPError, e:
+            except urllib2.HTTPError as e:
                 print('HTTPError: code: [{0}]'.format (e.code))
                 if e.code == 404:
                     # 404 Not Foundはリトライする必要が無いため即復帰
                     raise e
                 ex = e
 
-            except urllib2.URLError, e:
+            except urllib2.URLError as e:
                 print('URLError: reason: [{0}]'.format (e.reason))
                 ex = e
 
@@ -166,7 +179,7 @@ class Hitomi:
                 length = int(response.headers['Content-Length'])
 
                 if (os.path.exists(file)) and (os.stat(file).st_size == length):
-                    print 'Used exists file:' + file
+                    print('Used exists file:' + file)
                 else:
                     img = response.read()
                     f = open(file, 'wb')
@@ -179,18 +192,18 @@ class Hitomi:
                     print('Download size mismatch ' + 'file size:' + str(os.stat(file).st_size) + '  content-length:' + str(length))
                     continue
 
-            except urllib2.HTTPError, e:
+            except urllib2.HTTPError as e:
                 print('HTTPError: code: [{0}]'.format (e.code))
                 if e.code == 404:
                     # 404 Not Foundはリトライする必要が無いため即復帰
                     raise e
                 ex = e
 
-            except urllib2.URLError, e:
+            except urllib2.URLError as e:
                 print('URLError: reason: [{0}]'.format (e.reason))
                 ex = e
 
-            except IOError, e:
+            except IOError as e:
                 print('IOError:errno: [{0}] msg: [{1}]'.format (e.errno, e.strerror))
                 raise e
 
