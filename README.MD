@@ -2,7 +2,7 @@
 
 ## 環境
   MAC(おそらくLinux環境でも動くかと)
-  Python 2.7
+  Python 2.7 / Pyhon3.5
 
 ## 使い方
 ### 単一指定
@@ -12,6 +12,15 @@
 正常にダウンロードできた場合、カレントディレクトリにzipファイルを作成
 
      Re:Zero nara Mou Kirawarete mo Hameochi Suru made Rape.zip
+
+著作者が1名の場合、ファイル名に著作者を追加
+
+     ./getHitomi.py  https://hitomi.la/galleries/1026809.html
+
+正常にダウンロードできた場合、artists_list.txt に名前があれば置き換える。
+
+    1.【すえひろがり】Roshutsu de Yume Gokochi.zip  ... ある
+    2.【suehirogari】Roshutsu de Yume Gokochi.zip  ... なし
 
 ### 複数指定
 
