@@ -130,6 +130,8 @@ class GetListHitomi:
         #     c :
 
         list = {}
+        mptn=re.compile(r'^male:')
+        fptn=re.compile(r'^female:')
         for l in data:
             if l['type'] == 'manga' and l['l'] == 'japanese':
                 # 言語:日本語
@@ -137,9 +139,17 @@ class GetListHitomi:
 
                 # タグを展開
                 tag = {}
+                mail = 0
+                femail = 0
                 if 't' in l:
                     for t in l['t']:
                         tag[t] = t
+                        if mptn.match(t):
+                            mail += 1
+                        if fptn.match(t):
+                            femail += 1
+                    if mail > 2 and femail == 0:
+                        tag['male:males only'] = 'male:males only'
 
                 # 著作者展開
                 ar = ''
@@ -152,7 +162,7 @@ class GetListHitomi:
                             ar = ar + sp + a
                         sp = '/'
 
-                if ('novel' not in tag) and not(('male:yaoi' in tag) and ('male:males only' in tag)):
+                if ('novel' not in tag) and ('male:males only' not in tag):
                     list[l['id']] = 'https://hitomi.la/galleries/' + str(l['id']) + ".html " + l['n'] + ', Art=[' + ar + ']'
 
         try:
