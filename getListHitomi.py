@@ -155,8 +155,15 @@ class GetListHitomi:
                 if ('novel' not in tag) and not(('male:yaoi' in tag) and ('male:males only' in tag)):
                     list[l['id']] = 'https://hitomi.la/galleries/' + str(l['id']) + ".html " + l['n'] + ', Art=[' + ar + ']'
 
-        for k in sorted(list.keys(), reverse=True):
-            print(list[k])
+        try:
+            for k in sorted(list.keys(), reverse=True):
+                print(list[k], flush=True)
+        except (BrokenPipeError, IOError):
+            try:
+                 sys.stdout.close()
+            except (BrokenPipeError, IOError):
+                 pass
+            sys.exit()
 
 #
 #
