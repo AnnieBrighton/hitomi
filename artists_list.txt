@@ -5,6 +5,9 @@ hinoue itaru
 takaya shunichi
 toki
 kirome
+shin fuzen
+kunisaki kei
+taki re-ki
 
 oosawa ofuda
 osana sumika
@@ -22,7 +25,6 @@ soso-zagri
 soyosoyo
 sugoi kinniku
 imaki hitotose
-inaba cozy
 isawa nohri
 iso nogi
 itouya
@@ -55,8 +57,7 @@ murasaki nyaa
 kakushina nozomi
 kamikaze makoto
 
-ayane	あやね
-yamamoto atsuji	山本貴嗣
+
 089taro	089タロー
 100 yen locker	100円ロッカー
 100yen locker	100円ロッカー
@@ -152,6 +153,7 @@ akairo	あかゐろ
 akanagi	あかなぎ
 akane shuuhei	茜しゅうへい
 akane souichi	明音そーいち
+akari kyousuke	あかりきょうすけ
 akari tsutsumi	つつみあかり
 akasaka kazuhiro	赤坂かずひろ
 akasha mitona	朱沙みとな
@@ -440,6 +442,7 @@ ayagami tatsuki	綾守竜樹
 ayakase chiyoko	綾枷ちよこ
 ayakawa mio	綾川みお
 ayakawa riku	あやかわりく
+ayane	あやね
 ayano naoto	綾野なおと
 ayano rei	綾野麗
 ayano rena	綾乃れな
@@ -500,6 +503,7 @@ bifidus	ビフィダス
 bifuu ryuuji	美風流司
 bijogi junction	美女木ジャンクション
 billion	Billion
+binbi	びん美
 binto	瓶人
 bitch goigostar	ビッチ☆ゴイゴスター
 bitch☆goigostar	ビッチ☆ゴイゴスター
@@ -518,6 +522,7 @@ bokuto kimiha	僕刀君刃
 bonnari	ぼんなり
 bonten	梵典
 booch	ぶーち
+boss chin	BOSS珍
 bosshi	ぼっしぃ
 boui	暴威
 bouningen	某人間
@@ -667,6 +672,7 @@ darabuchi	だらぶち
 date	DATE
 date fujiaki	伊達藤晃
 dc project (dirty matsumoto)	DCプロジェクト (ダーティ松本)
+deburasu	でぶらす
 deep purple '72	深紫'72
 deep purple 72	深柴'72
 deep valley	ディープバレー
@@ -1216,6 +1222,7 @@ hitohana moru	一華もる
 hitotsu yukimoto	単ユキモト
 hitsuji takako	ひつじたかこ
 hitsujiko	羊子
+hitsujino	羊乃
 hiura papiko	火浦パピコ
 hiviki n	Hiviki.N
 hiviki.n	Hiviki N
@@ -1321,11 +1328,13 @@ ikoma ippei	伊駒一平
 iku ikuo	威駆イク夫
 ikuhana niro	幾花にいろ
 ikumo taisuke	井雲泰助
+ikuta takanon	いくたたかのん
 ikuya daikokudou	幾夜大黒堂
 imachi	いまち
 imaichi	居妹治
 imaizumi atsushi	いまいずみあつし
 imanaga satoshi	今長敏
+inaba cozy	稲葉COZY
 inaba kouji	稲葉晃次
 inagaki miiko	稲垣みいこ
 inago	INAGO
@@ -1386,6 +1395,7 @@ ishikawa kingyo	石川きんぎょ
 ishikawa shisuke	石川シスケ
 ishikei	石恵
 ishimiso	いしみそ
+ishimura	いしみそ
 ishino kanon	石野鐘音
 ishizuchi ginko	石鎚ぎんこ
 island	あいらんど
@@ -1431,6 +1441,7 @@ izumimori mana	出水守真名
 izumiya otoha	いづみやおとは
 izumiya yuuji	泉谷勇次
 izumo kuutarou	出雲空太郎
+j.sairo	J・さいろー
 jacanus	ヤ力ヌス
 jackasss	JACKASSS
 jackie kameyama	ジャッキー亀山
@@ -1522,6 +1533,7 @@ kaiohsha	海王社
 kaishaku	介錯
 kaishinshi	カイシンシ
 kaitou pink	かいとうぴんく
+kaitou yuuhi	快刀ゆーひ
 kajiyama hiroshi	梶山浩
 kajiyama hiroshi (hq's)	梶山浩 (HQ's)
 kakao	Kakao
@@ -1607,6 +1619,7 @@ karino hasumi	狩野ハスミ
 karino kei	狩野景
 karma tatsuro	かるま龍狼
 karma tatsurou	かるま龍狼
+karochii	かろちー
 karukan	かるかん
 karukiya	かるきや
 karura jun	迦楼羅淳
@@ -1621,6 +1634,7 @@ kasei	かせい
 kashi	華師
 kashi michinoku	KASHIみちのく
 kashikoru	かしこる
+kashimada shiki	鹿島田しき
 kashio	カシオ
 kashiwabara rei	柏原玲
 kashiwagi rei	柏樹玲
@@ -1746,6 +1760,7 @@ kibii mocha	きびぃもか
 kichijouji monaka	吉祥寺もなか
 kichirock	キチロク
 kichiroku	キチロク
+kidou muichi	綺堂無一
 kiduki erika	季月えりか
 kigurage	きぐらげ
 kihiru	きひる
@@ -1946,6 +1961,7 @@ kotengu	コテング
 kotobuki kazuki	琴吹かづき
 kotobuki maimu	ことぶきまいむ
 kotoji	琴慈
+kotoko	古都子
 kotono wakako	琴の若子
 kotorino desuko	ことり野デス子
 kotowari	理
@@ -2109,6 +2125,7 @@ leonardo 16 sei	れオナるド16世
 leopard	レオパルド
 leymei	LEYMEI
 library	らいぶらり
+lilithlauda	リリスラウダ
 linda	LINDA
 liquid	Liquid
 liquid (hikage eiji)	Liquid (日陰影次)
@@ -2132,6 +2149,7 @@ maban	まばん
 maboroshi chouji	幻超二
 maboroshi ouka	幻桜花
 macaroni and cheese	マカロニ＆チーズ
+maccha chamomo	抹茶もも
 machida hiraku	町田ひらく
 machigi ruru	街樹るる
 machino henmaru	町野変丸
@@ -2494,6 +2512,7 @@ mizukaga syou	水利硝
 mizukami ranmaru	水上蘭丸
 mizukami shin	水上シン
 mizuki asamori	朝森瑞季
+mizuki eimu	みずきえいむ
 mizuki gai	水樹凱
 mizuki haruto	三月春人
 mizuki hitoshi	みずきひとし
@@ -2605,6 +2624,7 @@ moyamoya	モヤモヤ
 mozu	もず
 mozu k	もずK
 mozuya murasaki	もずや紫
+mtno	MTNO
 mu-min	夢～眠
 mucha	むちゃ
 muchakai (mucha)	夢茶会 (むちゃ)
@@ -2665,6 +2685,7 @@ nagai wataru	長井わたる
 nagaikusa	長い草
 nagakura keiko	長倉けいこ
 nagano akane	永野あかね
+naganoro	ながのろ
 nagaraya	ながら屋
 nagare ippon	流一本
 nagareboshi hikaru	流星ひかる
@@ -2700,6 +2721,7 @@ naizou kudara	百濟內創
 najimi shin	馴染しん
 nakadera akira	中寺明良
 nakafusa momo	中総もも
+nakagami takashi	中上たかし
 nakagawa waka	中川わか
 nakagawa you	中川優
 nakahara tomo	中原とも
@@ -2789,6 +2811,7 @@ naritayama brian	成田山武頼庵
 narukaku	ナるカく
 narumi	鳴海
 narumi yuu	鳴海ゆう
+narumiya	鳴海也
 narusawa aya	鳴沢綾
 narusawa kei	なるさわ景
 narusawa sora	成沢空
@@ -2951,6 +2974,7 @@ nozarashi satoru	秋神サトル
 nozomi yuu	のぞみ侑海
 nukunuku orange	ヌクヌクオレンジ
 nurumu	ぬるむ
+nuyakana	ぬャカな
 nyagomaru	にゃご丸
 nyamota	にゃもた
 nyan	NYAN
@@ -3113,6 +3137,7 @@ otonari afuro	乙鳴アフロ
 otonashi kyousuke	音無響介
 otone	音音
 otono natsu	音乃夏
+otoo	おとぉ
 otosato ryoutarou	乙里玲太朗
 otsubu	OTSUBU
 otsuka kotora	大塚子虎
@@ -3270,6 +3295,7 @@ rinno arara	りんのあらら
 rinri kazuki	倫理一輝
 rinrin	RINRIN
 rinsuumin	鈴好明
+ro	Ro
 rocket engine	ロケットエンジン
 rocket kyoudai	ロケット兄弟
 rocket monkey	ロケットモンキー
@@ -3415,6 +3441,7 @@ sakura hikomaru	桜彦丸
 sakura kumi	佐蔵久美
 sakura mafumi	佐倉まふみ
 sakura mitono	天櫻みとの
+sakura puchilo	さくらぷちろー
 sakura romako	桜ロマ子
 sakura sae	佐倉小枝
 sakurabashi buncha	桜橋文茶
@@ -3431,6 +3458,7 @@ sakurami hiroki	櫻見弘樹
 sakuraniku umatarou	桜肉馬太郎
 sakurano hikaru	さくらの輝
 sakuratsuki rin	桜月りん
+sakurayu haru	桜湯ハル
 sakuya shion	咲夜しおん
 sameba ikuya	鮫葉いくや
 sameda koban	さめだ小判
@@ -3591,6 +3619,7 @@ shijima yukio	四島由紀夫
 shijou sadafumi	四条定史
 shikage nagi	しかげなぎ
 shikawa yumiya	紫川弓夜
+shiki	支葵
 shiki takuto	史鬼匠人
 shikigami azuma	しきがみあずま
 shikigami kuroko	式神くろ子
@@ -3685,9 +3714,11 @@ shirogoma rai	白駒らい
 shiroie mika	白家ミカ
 shirokuma douji	白熊童子
 shiromi kazuhisa	しろみかずひさ
+shiromitsu daiya	白蜜ダイヤ
 shironeko sanbou	白猫参謀
 shirono akira	城野晃
 shirono mahiro	シロノマヒロ
+shiroo	奇械田零士朗
 shirota kuronosuke	白田クロノスケ
 shirota kurota	シロタクロタ
 shirotsumekusa	城爪草
@@ -3914,6 +3945,7 @@ takahashi syou	高橋ショウ
 takahasi syou	高橋ショウ
 takahiro hiryuu	緋龍高弘
 takaku shouko	高久尚子
+takaku tubby	シロノマヒロ
 takamatsu makoto	高松誠人
 takamichi	TAKAMICHI
 takamiya hairi	高宮はいり
@@ -4233,6 +4265,7 @@ tsukinami kousuke	月並甲介
 tsukino jyogi	月野定規
 tsukino omame	つきのおまめ
 tsukioka reitarou	月岡麗太朗
+tsukiwani	月わに
 tsukiyoshi hiroki	月吉ヒロキ
 tsukudani	佃煮
 tsukumo gou	つくも号
@@ -4266,6 +4299,7 @@ type-moon	タイプムーン
 type.90	TYPE.90
 typehatena	たいぷはてな
 u-18	U-18
+u-hi	U-hi
 u-jin	遊人
 u-k	U-K
 u-rin	うーりん
@@ -4290,6 +4324,7 @@ ueda yuu	上田裕
 uehara ari	上原あり
 uehara ryou	上原りょう
 uekan	うえかん
+uemukai dai	上向だい
 ueno juubai	上野十倍
 ueno jyubai	上野十倍
 ueno naoya	ウエノ直哉
@@ -4323,6 +4358,7 @@ umino luka / umino ruka	海野留珈
 umino sachi	海野幸
 umino yayoi	海野やよい
 umiushi	うみうし
+umiyama misaki	宇美山ミサキ
 unagimaru	鰻丸
 unal	ウナル
 unasaka	海境
@@ -4431,6 +4467,7 @@ wazakita	わざきた
 will	ウィル
 win win yutaka	win win 豊
 windmill	こ〜ちゃ
+wokasiya	ヲカシヤ
 wolf taro	狼太郎
 wolf tarou	狼太郎
 xiaowoo	小武
@@ -4475,9 +4512,11 @@ yamaguchi akira	山口陽
 yamaguchi roman	山口ろまん
 yamaguchi shouichi	山口昇一
 yamahata rian	山畑璃杏
+yamai	やまい
 yamai sakatarou	山井逆太郎
 yamamichi	やまみち
 yamamoto ataru	山本アタル
+yamamoto atsuji	山本貴嗣
 yamamoto hiroshi	山本弘
 yamamoto hyugo	山本ひゅーご
 yamamoto johanne	山本夜羽音
@@ -4571,6 +4610,7 @@ yonoi seiichiro	ヨノイ誠一郎
 yontarou	よんたろう
 yorisuke	よりすけ
 yoriu mushi	寄生虫
+yoroduya hyakuhachi	万屋百八
 yoshi hyuuma	吉飛雄馬
 yoshi milk	よしみるく
 yoshiama renzou	吉天レンゾウ
@@ -4725,6 +4765,7 @@ zappa go	雑破業
 zariya ranmaru	座裏屋蘭丸
 zefido	ゼフィド
 zen9	Zen9
+zenra yashiki	全裸屋敷
 zero no mono	ゼロの者
 zerry fujio	ZERRY藤尾
 zessekaishonen	絶世界少年
