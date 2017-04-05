@@ -32,10 +32,8 @@ musshu kamayatsu
 naganeko
 nasipasuta
 natsuki shuri
-nepuka
 nikushiki
 nogiwa kaede
-nukunuku
 kazumi yuana
 kuuya
 kyockcho
@@ -54,9 +52,6 @@ watanuki kaname
 yukyu ponzu
 
 
-narumiya akira	成宮亨
-dekosuke 18gou	デコ助18号
-berose	べろせ
 089taro	089タロー
 100 yen locker	100円ロッカー
 100yen locker	100円ロッカー
@@ -91,6 +86,7 @@ abe yuki	阿部有軌
 abhar	ABHAR, 深崎暮人
 abogado powers (yoshizawa tomoaki)	アボガドパワーズ (吉澤友章)
 aburidashi zakuro	あぶりだしざくろ
+accio	あっちょ
 achumuchi	あちゅむち
 active	アクティブ
 adachi ken	あだちけん
@@ -225,6 +221,7 @@ amadare yousai	アマダレ要塞
 amadume ryuuta	甘詰留太
 amagaeru	あまがえる
 amagase haruyuki	天瀬晴之
+amagi kazuko	天城一子
 amagi kei	亜麻木硅
 amagi michihito	あまぎみちひと
 amagi reno	天城れの
@@ -235,6 +232,7 @@ amaki ichiko	天城一子
 amakusa shiro	天草白
 amami matoba	天海まとば
 amami yukino	天海雪乃
+amamitu kousuke	甘蜜こうすけ
 amamiya jun	雨宮 淳
 amamiya junko (amamiya jun)	あまみや淳子 (雨宮淳)
 amamiya you	天宮耀
@@ -498,12 +496,14 @@ beauty hair	ビューティ・ヘア
 bee	bee
 begirama	ベギラマ
 bell's	Bell's
+bells	Bell's
 benantoka	Beなんとか
 benimura karu	紅村かる
 benjamin	ベンジャミン
 benny's	BENNY'S
 bennys	BENNYS
 benny’s	BENNY'S
+berose	べろせ
 bifidus	ビフィダス
 bifuu ryuuji	美風流司
 bijogi junction	美女木ジャンクション
@@ -687,6 +687,7 @@ deizu nin	出井州忍
 dekochin hammer	でこちんハンマー
 dekosen takuji	デコセンタクジ
 dekosuke	デコ助18号
+dekosuke 18gou	デコ助18号
 delaware	でらうえあ
 delta-m	DELTA・M
 denjiro	DENJIRO
@@ -787,6 +788,7 @@ esuo	えすお
 eternal (moehime nenene)	eternal (萌姫ねねね)
 ether	Ether
 etoile	ETOILE
+etuzan jakusui	越山弱衰
 extreme	EXTREME
 ezawa tamio	江沢民男
 f&c	F&C
@@ -909,6 +911,7 @@ gattsun	ガッツン
 gedoushu	ゲドウシュウ
 gedoushuu	ゲドウシュウ
 gegera toshikazu	げげら俊和
+gekka f-to	月下F兎
 gekka kaguya	火愚夜
 gekka saeki	月下冴喜
 geko	GEKO
@@ -1287,6 +1290,7 @@ hoshino pierce	星野ぴあす
 hoshino ryuichi	星野竜一
 hoshino ryuuichi	星野竜一
 hoshitsuki neon	星憑ネオン
+hoshitsuki yozora	ほしつきよぞら
 hoshizaki hikaru	星崎ひかる
 hotei kazuha	保汀一葉
 hotta kei	法田恵
@@ -1299,12 +1303,14 @@ human	human
 hurricane ryu	破李拳竜
 huurinkazan	Huurinkazan (風輪夏山)
 huyuhusa suzuya	冬房すずや
+hydrant	HYDRANT
 hyji	灰司
 hyocorou	ひょころー
 hyoujun mai	氷純舞
 i-raf-you (various)	I-Raf-you (よろず)
 ibu hidekichi	伊武秀吉
 ibuki yasuro	伊吹泰郎
+iburo.	いぶろー。
 ice	ICE
 ichi	ICHI
 ichigono shizuku	苺野しずく
@@ -1610,6 +1616,7 @@ kaneda asao	兼田麻生
 kaneko ako	金子アコ
 kaneko toshiaki	かねことしあき
 kanemaki thomas	鉄巻とーます
+kanetaka souichi	兼高双一
 kaneyama shin	カネヤマシン
 kanikuu kaita	蟹空解太
 kanimori guri	蟹森ぐり
@@ -1631,6 +1638,7 @@ kanroame	甘露アメ
 kantamaki yui	環々唯
 kanten	寒天
 kantoku	カントク
+kantori	かんとり
 kanyapyi	かにゃぴぃ
 kanzai megumi	神咲めぐみ
 kanzaki haruko	神崎春子
@@ -1651,6 +1659,7 @@ karino kei	狩野景
 karma tatsuro	かるま龍狼
 karma tatsurou	かるま龍狼
 karochii	かろちー
+karube guri	軽部ぐり
 karukan	かるかん
 karukiya	かるきや
 karura jun	迦楼羅淳
@@ -1669,6 +1678,7 @@ kashimada shiki	鹿島田しき
 kashio	カシオ
 kashiwabara rei	柏原玲
 kashiwagi rei	柏樹玲
+kashiwagi tatsuya	かしわぎ達也
 kasi	華師
 kasuga	カスガ
 kasuga mayu	春日まゆ
@@ -1697,6 +1707,7 @@ katori shinbu	香取しんぶ
 katou chakichi	加藤茶吉
 katou jun	加藤じゅん
 katou mayumi	加藤マユミ
+katou rennyuu	樺糖練乳
 katsu aki	克亜樹
 katsura 24 gou	桂24號
 katsura airi	桂あいり
@@ -1885,6 +1896,7 @@ kita kaduki	北かづき
 kita kazuki	北かづき
 kitahara aki	北原亜希
 kitahara doumu	北原童夢
+kitahara eiji	北原エイジ
 kitakami ren	北上れん
 kitakata kuniaki	北方国明
 kitakawa touta	北河トウタ
@@ -1978,6 +1990,7 @@ konno azure	紺野あずれ
 kono donto	このどんと
 konohana	此花
 konohara narise	木原音瀬
+konomi	きのこのみ
 konoshiro shinko	コノシロしんこ
 konshin	魂神
 konya takashi	紺屋たかし
@@ -1996,6 +2009,7 @@ kotake	小武
 kotakemaru	小竹丸
 kotatsu	こたつ
 kotengu	コテング
+kotoba ai	コトバアイ
 kotobuki kazuki	琴吹かづき
 kotobuki maimu	ことぶきまいむ
 kotoji	琴慈
@@ -2298,6 +2312,7 @@ marumarusuke	まる丸介
 marumi	MARUMI
 maruneko	まる寝子
 maruo suehiro	丸尾末広
+marushin	丸新
 maruta	MARUTA
 maruto!	Maruto!
 maruwa tarou	丸和太郎
@@ -2386,6 +2401,7 @@ midorisawa miyuki	緑沢みゆき
 midou shiki	御堂志生
 mifune seijirou	三船誠二郎
 migakeba hikaru	御垳葉ひかる
+migi no hito mitsuru	右の人みつる
 migiwa kouji	みぎわこうじ
 migiyokouji	みぎよこうじ
 miharu	ミハル
@@ -2481,6 +2497,7 @@ mirino	みりの
 misa wasabi	三左わさび
 misagi nagomu	みさぎ和
 misaki jun	箕崎准
+misaki kaho.	ミサキカホ。
 misaki kurehito	深崎暮人
 misaki ryo	御前伶
 misaki shizuwo	美崎志づ魚
@@ -2616,12 +2633,14 @@ mohu2factory	モフ2製作所
 mojarin	もじゃりん
 moketa	もけ太
 mokkouyou bond	木工用ボンド
+mokufu	もくふう
 mokusei zaijuu	木星在住
 mokuzou	杢臓
 momi	momi
 momiji	もみじ
 momiyama	もみやま
 momo kitsune	桃きつね
+momo youkan	ももようかん
 momoduki suzu	桃月すず
 momofuki rio	桃吹リオ
 momohime shibuki	桃姫しぶき
@@ -2668,6 +2687,7 @@ moriyama ayumi	森山あゆみ
 moriyama rikka	森山六花
 moriyama toh	森山塔
 moriyama toh (yamamoto naoki)	森山塔(山本直樹)
+moriyama yusuke	森山雄介
 moroha	乙
 moroi ai	諸井愛
 morris	モリス
@@ -2705,6 +2725,7 @@ muraro	むらろ
 murasaki	紫紀
 murasaki nyaa	紫☆にゃ〜
 murasaki syu	むらさき朱
+murasakiiro orange	むらさきいろオレンジ
 murasame maru	村雨丸
 murasame masumi	村雨真澄
 murasan	ムラさん
@@ -2730,6 +2751,7 @@ mutsuki haru	睦月はる
 mutsuki tsutomu	むつきつとむ
 mutsuno hexa	六ツ野へきさ
 mutsutake	睦茸
+muupyon	むーぴょん
 myrage	舞麗辞
 myrage × hiru okita	舞麗辞 & 昼沖太
 myrage × nanaki seijyu	舞麗辞 & 七輝静樹
@@ -2799,6 +2821,7 @@ nakamine hiroshi	仲峰紘史
 nakamori ai	中森愛
 nakamura hirofumi	中村博文
 nakamura kanako	中村かなこ
+nakamura kanko	中村カンコ
 nakamura kuzuyu	中村葛湯
 nakamura nishiki	中村錦
 nakamura regura	仲村レグラ
@@ -2836,6 +2859,7 @@ nanami shizuka	ななみ静
 nanami yuuri	七海ユウリ
 nanamiya tsugumi	七宮つぐ実
 nanao	ななお
+nanao naru	七尾奈留
 nanao yukiji	七尾ゆきじ
 nanase aoi	七瀬葵
 nanase kai	七瀬かい
@@ -2864,6 +2888,7 @@ naoki tachibana	断華ナオキ
 naokichi	なおきち
 naokichi.	なおきち。
 naomu	なおむ
+naoya	直哉
 napata	なぱた
 narazu yoshitomo	不可知
 narcisse noir	なるしすのあ～る
@@ -2877,6 +2902,7 @@ narukaku	ナるカく
 narumi	鳴海
 narumi yuu	鳴海ゆう
 narumiya	鳴海也
+narumiya akira	成宮亨
 narusawa aya	鳴沢綾
 narusawa kei	なるさわ景
 narusawa sora	成沢空
@@ -2940,6 +2966,7 @@ nendo.	ねんど。
 nenemaru	音音丸
 neo gentle	NEO'GENTLE
 neo’gentle	NEO’GENTLE
+nepuka	ネプカ
 neriwasabi	ねりわさび
 neromashin	ねろましん
 new ab	にゅーAB
@@ -3040,6 +3067,7 @@ novel	松平龍樹
 noyama fuuichirou	野山風一郎
 nozarashi satoru	秋神サトル
 nozomi yuu	のぞみ侑海
+nukunuku	ぬくぬく
 nukunuku orange	ヌクヌクオレンジ
 nurumu	ぬるむ
 nuyakana	ぬャカな
@@ -3051,6 +3079,7 @@ nyanko fujinsama	にゃんこ夫人様
 nyanko mic	にゃんこMIC
 nylon	ナイロン
 nyorutarou	にょる太郎
+nyuuhin	にゅーひん
 nyx	Nyx
 o.ri	O.RI
 obakyu-taro	089タロー
@@ -3104,6 +3133,7 @@ okamoto fujio	おかもとふじお
 okano ahiru	陸乃家鴨
 okano hajime	おかのはじめ
 okara	おから
+okashira	おかしら
 okashita makoto	岡下誠
 okawari	OKAWARI
 okawari (dragon goya)	OKAWARI (ドラゴン小屋)
@@ -3274,6 +3304,7 @@ pirano	ピラノ
 piririnegi	ぴりりねぎ
 piromizu	ピロ水
 pirontan	ピロンタン
+pistonring nishizawa	ピストンリング西沢
 pizzicato	ピチカート
 pj-1	PJ-1
 pnrk	Pnrk
@@ -3413,6 +3444,7 @@ ryoh yuuki	結城稜
 ryoh-zoh	椋蔵
 ryohzoh	椋蔵
 ryoji	Ryoji
+ryokuchaism	緑茶イズム
 ryoma	ryoma
 ryou	りょう
 ryouei	諒英
@@ -3420,6 +3452,7 @@ ryouga taku	良河卓
 ryoumoto hatsumi	嶺本八美
 ryouran douji (atari hiroyuki)	繚乱童子 (辺ヒロユキ)
 ryouran douji (ex atari hiroyuki)	繚乱童子 (ex 辺ヒロユキ)
+ryu-tmr	RYU-TMR
 ryuga syo	龍牙翔
 ryuichi hiraoka	平岡竜一
 ryuji kawamoto	川源流寺
@@ -3504,6 +3537,7 @@ sakatsura hasuya	佐桂蓮弥
 sakawaki hirota	サカワキヒロ太
 sake	鮭
 sakemasu	サケマス
+saki chisuzu	さき千鈴
 saki kaori	咲香里
 saki urara	さきうらら
 sakino yuuya	咲乃ユウヤ
@@ -3606,6 +3640,7 @@ satoru	聖
 satoshi kishinosato	岸里さとし
 satoshi urushihara	うるし原智志
 satou chagashi	佐藤茶菓子
+satou kimiatsu	さとうきみあつ
 satou kuron	佐藤黒音
 satou kuuki	左藤空気
 satou marumi	佐藤丸美
@@ -3720,6 +3755,7 @@ shimachiyo	しまちよ
 shimaji	しまじ
 shimamoto harumi	島本晴海
 shimamoto harumi.	島本 晴海。
+shimanto shisakugata	40010試作型
 shimanto yo-ta / shimanto youta (shimanto seiryuu)	四万十曜太 (四万十清流)
 shimanto youta	四万十曜太
 shimao kazu	嶋尾和
@@ -3949,6 +3985,7 @@ sunahama nosame	砂浜のさめ
 sunakawa tara	砂川多良
 sunaoka akuto	砂岡亜久人
 suo mifumu	スオミフム
+suruga kuroitsu	駿河クロイツ
 suruga rinu	駿河りぬ
 surumesu	スルメス
 sute	すて
@@ -3970,9 +4007,11 @@ suzuki nago	鈴木和
 suzuki shigeru	鈴木しげる
 suzuki shinobu	鈴木忍
 suzuki sinobu	鈴木忍
+suzuki takeo	鈴木岳夫
 suzukuri ransei	涼栗乱成
 suzume miku	すずめみく
 suzumiya kazuki	涼宮和貴
+suzune rai	鈴根らい
 suzunone kanata	音々かなた
 suzusawa mizuki	すずさわ瑞樹
 suzushiro yakumo	すずしろやくも
@@ -3994,11 +4033,13 @@ tabe koji	たべ・こーじ
 tachibana	たちばな
 tachibana aruto	橘アルト
 tachibana atsushi	橘敦司
+tachibana itsuki	たちばな智久
 tachibana kai	橘海衣
 tachibana kaoru	たちばな薫
 tachibana naoki	断華ナオキ
 tachibana omina	立花オミナ
 tachibana pan	橘ぱん
+tachibana rikka	橘立夏
 tachibana seven	橘セブン
 tachibana shinji	橘真児
 tachibana takashi	橘孝志
@@ -4139,6 +4180,7 @@ tamao	TAMAO
 tamaquis wren	環レン
 tamaru makoto	田丸まこと
 tamasaburou syuntou	春藤玉三郎
+tamatsuyada	たまつやだ
 tamekou	ためこう
 tamikusa namida	民草涙
 tamiya akito	田宮秋人
@@ -4175,6 +4217,7 @@ tanimachi maid	谷町めいど
 tanimura marika	谷村まりか
 tanishi	たにし
 taniuchi kazuki	谷内和生
+taniyaraku	谷屋楽
 tanizakura shidare	谷桜しだれ
 tankei horie	堀江耽閨
 tanken harahara	探検はらはら
@@ -4186,6 +4229,7 @@ taono kinoko	汰尾乃きのこ
 tar	TAR
 tarakan	たらかん
 tarazoo	たらぞお
+taro	Taro
 taro wolf	狼太郎
 taropun	たろプン
 tataoka nanaroku	高岡七六
@@ -4242,6 +4286,7 @@ tiko	Tiko
 tikuma jukou	筑摩十幸
 till yoshi	てぃるょし
 tinkerbell	TinkerBell
+tmu	TMU
 toba yuga	跳馬遊鹿
 tobatoinu	とばといぬ
 todd oyamada	トッド小山田
@@ -4311,6 +4356,7 @@ torikawa sora	酉川宇宙
 torimushi	鳥莉蒸師
 toritora	酉寅
 toriyama jin	鳥山仁
+toro	TORO
 toruneko	獲る猫
 tosh	tosh
 toshi	都氏
@@ -4561,6 +4607,7 @@ watanabe hideyuki	渡辺ヒデユキ
 watanabe izumi	渡辺泉水
 watanabe masumi	渡辺真澄
 watanabe wataru	わたなべわたる
+watanabe yayoi	渡辺やよい
 watanabe yoshimasa	わたなべよしまさ
 watanuki azusa	綿貫梓
 watanuki ron	綿貫ろん
@@ -4630,6 +4677,7 @@ yamamoto luna	ヤマモト月
 yamamoto naoki	山本直樹
 yamamoto saki	山本沙姫
 yamamoto yoshifumi	山本よし文
+yamamoto zenzen	山本善々
 yamamura natsuru	山村なつる
 yaman**	yaman**
 yamanashi kaname	月見里中
@@ -4736,6 +4784,7 @@ yoshika	ヨシカ
 yoshimitsu kura	蔵吉光
 yoshimura tatsumaki	吉村竜巻
 yoshinari ayaka	吉成綾加
+yoshino	よしの
 yoshino shiho	吉野志穂
 yoshiro	夜士郎
 yoshiron	よしろん
@@ -4787,8 +4836,10 @@ yukion	ゆきおん
 yukiri takashi	ゆきりたかし
 yukirin	YUKIRIN
 yukiritakashi	ゆきりたかし
+yukisaki miale	雪咲MIALE
 yukishiro yoshi	雪城よし
 yukitaka	柚木貴
+yukiu con	雪雨こん
 yukiusagi	ゆきうさぎ
 yukiusagi.	ゆきうさぎ。
 yukiwo	ユキヲ
