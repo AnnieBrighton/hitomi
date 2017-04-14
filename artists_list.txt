@@ -52,6 +52,7 @@ watanuki kaname
 yukyu ponzu
 
 
+
 089taro	089タロー
 100 yen locker	100円ロッカー
 100yen locker	100円ロッカー
@@ -322,6 +323,7 @@ aomoto sari	碧本さり
 aota kaya	蒼田カヤ
 aoten	青点
 aotsu umihito	蒼津ウミヒト
+aox	あおっくす
 aoyama akira	蒼山哲
 aoyama alto	青山アルト
 aoyama aruto	青山あると
@@ -432,7 +434,7 @@ atahuta	atahuta
 ataka atsushi	安宅篤
 atei rei	亜程麗
 atelier kaguya	アトリエかぐや
-atori k	あとりK
+atori k	あとりK(あきなお)
 atte7kusa	あって七草
 atyu muti	あちゅむち
 aura seiji	あうら聖児
@@ -531,6 +533,7 @@ boss chin	BOSS珍
 bosshi	ぼっしぃ
 boui	暴威
 bouningen	某人間
+bow rei	某零
 bowalia	Bowalia
 bowcan	ぼーかん
 branshea	ブランシェア
@@ -831,6 +834,7 @@ fujimaru	藤丸
 fujimaru arikui	ふぢまるありくい
 fujimi	藤味
 fujimiya hiroshi	藤宮博士
+fujimoto ikura	藤本いくら
 fujimoto sei	ふじもとせい
 fujimura ayao	藤村綾生
 fujinami chinako	藤波ちなこ
@@ -1010,6 +1014,7 @@ hanabi	HANABi
 hanada maco	花田マコ
 hanafuda sakura	花札さくら
 hanafuda sakurano	花札さくらの
+hanainu	花犬
 hanamaki kaeru	花巻かえる
 hanamizawa q-tarou	花見沢Q太郎
 hanamo daiou	はなも大王
@@ -1240,6 +1245,7 @@ hisayakiq	ひさやききゅう
 hissatsukun	ひっさつくん
 hitagiri	ヒタギリ
 hitaki	ひたき
+hitohako	大嶋まなぶ(人箱)
 hitohana moru	一華もる
 hitotsu yukimoto	単ユキモト
 hitsuji takako	ひつじたかこ
@@ -1528,6 +1534,7 @@ k plus	ケイ-プラス
 k.tsutomu	K・津斗夢
 k2isu	クイス
 kabashima akira	樺島あきら
+kabocha	南瓜
 kabuki shigeyuki	香吹茂之
 kadoi fumio	門井文雄
 kaede minoru	カエデミノル
@@ -1917,6 +1924,7 @@ kiyoka	陽香
 kiyokawa zaidan	虚川財団
 kiyose kaoru	キヨセ薫
 kiyoshi shimizu	清水清
+kizaru	黄猿
 kizuka eiji	木塚詠路
 kizuki aruchu	鬼月あるちゅ
 kizuki rei	傷希レイ
@@ -1996,6 +2004,7 @@ konshin	魂神
 konya takashi	紺屋たかし
 koori	粉織
 koorizu	コオリズ
+koppe	こっぺ
 korie riko	梱枝りこ
 korisu	こりす
 korosuke	ころすけ
@@ -2247,6 +2256,7 @@ maimu-maimu	舞六まいむ
 maineko ruru	舞猫ルル
 mairenjie	麥人杰
 maitaimu	舞大夢
+maito shirou	無登志郎
 majikoro	まじころ
 majirou	まじろー
 majoccoid	Majoccoid
@@ -2424,6 +2434,7 @@ mikami hokuto	箕神北都
 mikan r	みかんR
 mikan.	みかん。
 mikawa kai	三川貝
+mikawaya	みかわや
 mikaze takashi	水風天
 mikazuki kougetsu	みかづき紅月
 mikemono yuu	神毛物由宇
@@ -2865,6 +2876,7 @@ nanase aoi	七瀬葵
 nanase kai	七瀬かい
 nanase makoto	七瀬真琴
 nanase mizuho	七瀬瑞穂
+nanashi	774
 nanba rei	なんばれい
 nanbara ken	南原兼
 nandz	NandZ
@@ -3195,6 +3207,7 @@ ooshima takeshi	大島岳詩
 ooshima towa	大島永遠
 oosugi kazuma	大杉和馬
 oota minomushi	緒々田みの虫
+oota takehiro	太田高弘
 ootake hisakazu	大竹久和
 ootaki kazufumi	大瀧一文
 ootomo megane	大朋めがね
@@ -3464,8 +3477,10 @@ ryuuki yumi	りゅうき夕海
 ryuumon kazuki	龍門主樹
 ryuusei x u-jin	流星x遊人
 ryuuta	竜太
+ryuuto hisashi	りゆうとひさし
 saaga miono	サーガ ミオノ
 saba satoru	佐波サトル
+sabaku chitai	砂漠
 sabaneko	さばねこ
 sabashi renya	左橋レンヤ
 sabe	SABE
@@ -3624,6 +3639,7 @@ sasaki mizuki	佐々木みずき
 sasaki sasa	笹木ささ
 sasaki tatsuya	ささきタツヤ
 sasakura ayato	笹倉綾人
+sasamashin	ササマシン
 sasamori tomoe	笹森トモエ
 sasamura gou	笹村剛
 sasayama ayako	笹山綾子
@@ -3717,6 +3733,7 @@ shibahara gocho	しばはらごちょ
 shibari kana	縛夏奈
 shibasaki syouzi	柴崎ショージ
 shibata masahiro	柴田昌弘
+shibuki	飛沫おろし
 shibuki oroshi	飛沫おろし
 shida	シダ
 shiden	しでん
@@ -3988,6 +4005,7 @@ suo mifumu	スオミフム
 suruga kuroitsu	駿河クロイツ
 suruga rinu	駿河りぬ
 surumesu	スルメス
+survival knife	サバイバル刃
 sute	すて
 suterii	すてりい
 suuchin	すうちん
@@ -4507,12 +4525,14 @@ umino sachi	海野幸
 umino yayoi	海野やよい
 umiushi	うみうし
 umiyama misaki	宇美山ミサキ
+unadon	うな丼
 unagimaru	鰻丸
 unal	ウナル
 unasaka	海境
 unasaka ryo	海境涼
 uncle sam	あんくるさむ
 uni8	Uni8
+unimaru	uni:maru
 unite souji	ユナイト双児
 unite-souji	ユナイト双児
 unknownmaru	杏野雲まる
