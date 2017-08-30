@@ -224,6 +224,7 @@ amagiri mio	雨霧MIO
 amahara	天原
 amakawa akito	あまかわあきと
 amaki ichiko	天城一子
+amakura	アマクラ
 amakusa shiro	天草白
 amami matoba	天海まとば
 amami yukino	天海雪乃
@@ -737,6 +738,7 @@ drill jiru	ドリル汁
 drill murata	ドリルムラタ
 ds	D,s
 dulce-q	ダルシー研Q所
+dun	DUN
 dunga	ドゥンガ
 dynamite moca	ダイナマイトMoca
 e-musu aki	いーむす・アキ
@@ -880,11 +882,13 @@ fumihiko	ふみひこ
 fumihiro	ふみひろ
 fumii	ふみー
 fumio	フミオ
+fumitsuki sou	二三月そう
 fumizuki kou	文月晃
 funabori nariaki	船堀斉晃
 furisuku	ふりすく
 furuta kazuya	古田一也
 furuta kouta	古田航太
+fusataka sikibu	ふさたか式部
 fuse haruka	布施はるか
 futaba yae	双葉八重
 futamaro	ふうたまろ
@@ -1417,6 +1421,7 @@ inuboshi	犬星
 inuburo	いぬぶろ
 inue shinsuke	犬江しんすけ
 inugahora an	犬洞あん
+inugami naoyuki	犬神尚幸
 inuhiko	犬彦
 inui sekihiko	犬威赤彦
 inumaru	犬丸
@@ -2089,6 +2094,7 @@ kouzuki mayuki	鴻月まゆき
 kouzuki rio	香月りお
 koyanagi royal	小柳ロイヤル
 kozakura kumaneko	小桜クマネコ
+kozue akari	こずえあかり
 kozuki rio	香月りお
 kubo shiyun	久保しゆん
 kubota chihiro	久保田チヒロ
@@ -2240,6 +2246,7 @@ liquid	Liquid
 liquid (hikage eiji)	Liquid (日陰影次)
 lockheart	ロックハート
 locon	Locon
+lolicept	ロリセプト
 lorica	Lorica
 louis & visee	Louis & Visee
 louis&visee	Louis&Visee
@@ -2382,6 +2389,7 @@ masuda inu	ますだ犬
 masuda takahiro	ますだたかひろ
 masuyama kei	ますやまけい
 match	Match
+matcha mami	まっちゃまみ
 matra milan	的良みらん
 matsu takeshi	松武
 matsuba	松葉
@@ -2641,6 +2649,7 @@ mizu	Mizu
 mizuhara kenji	水原賢治
 mizuhara masaki	水原マサキ
 mizui	みずい
+mizuiro megane	みずいろめがね
 mizukaga syou	水利硝
 mizukami ranmaru	水上蘭丸
 mizukami shin	水上シン
@@ -3662,6 +3671,7 @@ sanada	サナダ
 sanada rin	真田鈴
 sanagi torajiro	蛹虎次郎
 sanagi torajirou	蛹虎次郎
+sanazura hiroyuki	さなづらひろゆき
 sanba riwo	三葉りを
 sanba so	さんば挿
 sanbasou	さんば挿
@@ -3867,6 +3877,7 @@ shinda mane	新田真子
 shindo l	新堂エル
 shindol	新堂エル
 shindou	しんどう
+shindou hajime	新道一
 shindou naoto	新堂なおと
 shinichi izawa	伊沢慎壱
 shinji mao	真慈真雄
@@ -4436,6 +4447,7 @@ tongpoo	とんぷう
 tonikaku	兎二角
 tonkou	東航
 tonnosuke	とんのすけ
+tony taka	TONY
 tonzai	東西
 toono nagisa	遠野渚
 tooyama hikaru	遠山光
@@ -4512,6 +4524,7 @@ tsukushino makoto	つくしの真琴
 tsumagomi izumo	妻籠いずも
 tsumetoro	つめとろ
 tsunoame kazuya	角雨和八
+tsunoda saburoo	つのだサブロー
 tsurugi kai	剣解
 tsurusaki takahiro	鶴崎貴大
 tsuruta bungaku	鶴田文学
