@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+import time
+import http
 import os, sys   # モジュール属性 argv を取得用
 
 try:
@@ -173,6 +175,7 @@ class Hitomi:
     # イメージファイルダウンロード
     def __imgDownloadFile(self, file, url):
         for loop in range(1, 10):
+            time.sleep(2)
             try:
                 req = urllib2.Request(url)
                 response = urllib2.urlopen(req)
@@ -197,6 +200,10 @@ class Hitomi:
                 if e.code == 404:
                     # 404 Not Foundはリトライする必要が無いため即復帰
                     raise e
+                ex = e
+
+            except http.client.IncompleteRead as e:
+                print('http: IncompleteRead')
                 ex = e
 
             except urllib2.URLError as e:
