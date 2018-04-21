@@ -25,7 +25,7 @@ class GetListHitomi:
         self.__artistList = {}  # 著作者一覧
         self.__home = os.environ['HOME'] + '/.hitomi/'
         self.__jsonfile = self.__home + 'hitomi_galleries%02d.json' % no
-        self.__url = 'https://hitomi.la/galleries%d.json' % no
+        self.__url = 'https://ltn.hitomi.la/galleries%d.json' % no
 
         if not os.path.exists(self.__home):
             os.mkdir(self.__home)
@@ -167,7 +167,8 @@ class GetListHitomi:
 
         try:
             for k in sorted(list.keys(), reverse=True):
-                print(list[k], flush=True)
+                print(list[k])
+                sys.stdout.flush()
         except (BrokenPipeError, IOError):
             try:
                  sys.stdout.close()
