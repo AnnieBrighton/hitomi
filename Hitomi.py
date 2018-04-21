@@ -88,18 +88,18 @@ class Hitomi:
                 return
 
             except urllib2.HTTPError as e:
-                print('HTTPError: code: [{0}]'.format (e.code))
+                print('HTTPError: code: [{0}]'.format (e.code), url)
                 if e.code == 404:
                     # 404 Not Foundはリトライする必要が無いため即復帰
                     raise e
                 ex = e
 
             except urllib2.URLError as e:
-                print('URLError: reason: [{0}]'.format (e.reason))
+                print('URLError: reason: [{0}]'.format (e.reason), url)
                 ex = e
 
             except IOError as e:
-                print('IOError:errno: [{0}] msg: [{1}]'.format (e.errno, e.strerror))
+                print('IOError:errno: [{0}] msg: [{1}]'.format (e.errno, e.strerror), url)
                 raise e
 
         # リトライ回数を超えた場合、最後の例外で
@@ -139,20 +139,23 @@ class Hitomi:
                 for el in elem.findall('./body/div[@class=\'img-url\']'):
                     #imgurl = 'https://a' + chr(97 + (int(self.__id) % 7)) + el.text.rstrip('\n')[3:]
                     #imgurl = 'https://a' + chr(97) + el.text.rstrip('\n')[3:]
-                    imgurl = 'https://' + chr(97 + (int(self.__id) % 2)) + 'a' + el.text.rstrip('\n')[3:]
+                    if ((int(self.__id) % 10 ) == 1):
+                        imgurl = 'https://' + 'aa' + el.text.rstrip('\n')[3:]
+                    else:
+                        imgurl = 'https://' + chr(97 + (int(self.__id) % 2)) + 'a' + el.text.rstrip('\n')[3:]
                     self.__imgList.append(imgurl)
 
                 return
 
             except urllib2.HTTPError as e:
-                print('HTTPError: code: [{0}]'.format (e.code))
+                print('HTTPError: code: [{0}]'.format (e.code), url)
                 if e.code == 404:
                     # 404 Not Foundはリトライする必要が無いため即復帰
                     raise e
                 ex = e
 
             except urllib2.URLError as e:
-                print('URLError: reason: [{0}]'.format (e.reason))
+                print('URLError: reason: [{0}]'.format (e.reason), url)
                 ex = e
 
         # リトライ回数を超えた場合、最後の例外で
@@ -197,7 +200,7 @@ class Hitomi:
                     continue
 
             except urllib2.HTTPError as e:
-                print('HTTPError: code: [{0}]'.format (e.code))
+                print('HTTPError: code: [{0}]'.format (e.code), url)
                 if e.code == 404:
                     # 404 Not Foundはリトライする必要が無いため即復帰
                     raise e
@@ -208,11 +211,11 @@ class Hitomi:
                 ex = e
 
             except urllib2.URLError as e:
-                print('URLError: reason: [{0}]'.format (e.reason))
+                print('URLError: reason: [{0}]'.format (e.reason), url)
                 ex = e
 
             except IOError as e:
-                print('IOError:errno: [{0}] msg: [{1}]'.format (e.errno, e.strerror))
+                print('IOError:errno: [{0}] msg: [{1}]'.format (e.errno, e.strerror), url)
                 raise e
 
         # リトライ回数を超えた場合、最後の例外で
